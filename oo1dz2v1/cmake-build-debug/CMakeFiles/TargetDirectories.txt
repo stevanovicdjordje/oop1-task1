@@ -1,0 +1,3 @@
+C:/Users/jovan/CLionProjects/oo1dz2v1/cmake-build-debug/CMakeFiles/oo1dz2v1.dir
+C:/Users/jovan/CLionProjects/oo1dz2v1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jovan/CLionProjects/oo1dz2v1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
